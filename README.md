@@ -1,4 +1,4 @@
-# Android 套件分享
+# Android 套件
 本 gitbook 是希望能夠統整出大家常用的套件並且附上使用方法，來減少新手學習的困難，也減少大家開發的時間，期望大家能將自己用到的套件以 [Pull Request](https://github.com/weitsai/android-module-doc/pulls) 的方式送上來跟大家分享。
 
 ## 如何和大家分享套件呢？
