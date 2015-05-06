@@ -1,0 +1,3 @@
+[submodule "Progress/ElasticDownload"]
+	path = Progress/ElasticDownload
+	url = https://github.com/Tibolte/ElasticDownload
