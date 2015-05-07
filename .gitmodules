@@ -4,3 +4,6 @@
 [submodule "ViewPage/MaterialViewPager"]
 	path = ViewPage/MaterialViewPager
 	url = git@github.com:florent37/MaterialViewPager.git
+[submodule "Animations/android-player"]
+	path = Animations/android-player
+	url = git@github.com:geftimov/android-player.git

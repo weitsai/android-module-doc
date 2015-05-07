@@ -3,3 +3,5 @@
 	- [ElasticDownload](Progress/ElasticDownload.md)
 - [ViewPage](ViewPage/README.md)
 	- [MaterialViewPager](ViewPage/MaterialViewPager.md)
+- [Animations](Animations/README.md)
+	- [android-player](Animations/android-player.md)
